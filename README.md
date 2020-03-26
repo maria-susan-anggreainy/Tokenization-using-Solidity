@@ -2,7 +2,7 @@
 Tokenization using Solidity
 
 Use Case in this project Tokenization
--Tokenization of any Assets as fungible Tokens (ERC20) 
+- Tokenization of any Assets as fungible Tokens (ERC20) 
 - Creation of Bonus Programs, Vouchers, etc. 
 - Creation of a new crypto currency 
 - Creation of a Payment-layer on top of Ethereum
